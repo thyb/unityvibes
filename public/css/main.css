@@ -64,6 +64,11 @@
 #menu1 .vinyl45.yellow, #menu2 .vinyl45.yellow {
 	background-image: url("../img/vinyl-yellow.png");
 }
+
+#menu1 .vinyl45.orange, #menu2 .vinyl45.orange {
+	background-image: url("../img/vinyl-orange.png");
+}
+
 #menu1 .vinyl45.red, #menu2 .vinyl45.red {
 	background-image: url("../img/vinyl-red.png");
 }
