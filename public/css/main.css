@@ -59,13 +59,13 @@
 }
 
 #menu1 .vinyl45.green, #menu2 .vinyl45.green {
-	background-image: url("/public/img/vinyl-green.png");
+	background-image: url("../img/vinyl-green.png");
 }
 #menu1 .vinyl45.yellow, #menu2 .vinyl45.yellow {
-	background-image: url("/public/img/vinyl-yellow.png");
+	background-image: url("../img/vinyl-yellow.png");
 }
 #menu1 .vinyl45.red, #menu2 .vinyl45.red {
-	background-image: url("/public/img/vinyl-red.png");
+	background-image: url("../img/vinyl-red.png");
 }
 
 
@@ -81,7 +81,7 @@
 	height: 505px;
 	margin: 0 auto;
 	text-align: center;
-	background-image: url("/public/img/vinyl.png");
+	background-image: url("../img/vinyl.png");
 	background-position: center center;
 }
 
